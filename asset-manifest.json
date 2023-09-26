@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VinayakPachauri_22BCS80107/static/css/main.6d4e09db.css",
+    "main.js": "/VinayakPachauri_22BCS80107/static/js/main.e6bc159b.js",
+    "index.html": "/VinayakPachauri_22BCS80107/index.html",
+    "main.6d4e09db.css.map": "/VinayakPachauri_22BCS80107/static/css/main.6d4e09db.css.map",
+    "main.e6bc159b.js.map": "/VinayakPachauri_22BCS80107/static/js/main.e6bc159b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d4e09db.css",
+    "static/js/main.e6bc159b.js"
+  ]
+}
