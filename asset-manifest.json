@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/VinayakPachauri_22BCS80107/static/css/main.6d4e09db.css",
-    "main.js": "/VinayakPachauri_22BCS80107/static/js/main.e6bc159b.js",
-    "index.html": "/VinayakPachauri_22BCS80107/index.html",
-    "main.6d4e09db.css.map": "/VinayakPachauri_22BCS80107/static/css/main.6d4e09db.css.map",
-    "main.e6bc159b.js.map": "/VinayakPachauri_22BCS80107/static/js/main.e6bc159b.js.map"
+    "main.css": "/movie-recommendation/static/css/main.6d4e09db.css",
+    "main.js": "/movie-recommendation/static/js/main.58ed64f6.js",
+    "index.html": "/movie-recommendation/index.html",
+    "main.6d4e09db.css.map": "/movie-recommendation/static/css/main.6d4e09db.css.map",
+    "main.58ed64f6.js.map": "/movie-recommendation/static/js/main.58ed64f6.js.map"
   },
   "entrypoints": [
     "static/css/main.6d4e09db.css",
-    "static/js/main.e6bc159b.js"
+    "static/js/main.58ed64f6.js"
   ]
 }
